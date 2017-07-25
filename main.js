@@ -224,3 +224,4 @@ if(new Date()){
 
 // 30.
 // Link this file to the sibling `index.html` document, open the file in your browser and make sure there are no errors in your console.
+//There are errors because X has been declared mutiple times 
